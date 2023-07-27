@@ -2625,7 +2625,7 @@ pre .javascript .function {
   width: 100%;
   height: 100vh;
   overflow: hidden;
-  background: url("/images/Snowfall.png") center center/cover no-repeat;
+  background: url("https://cdn.staticaly.com/gh/wangpengbug/picx-images-hosting@master/20230727/u=1797544775,2912350681&fm=253&fmt=auto&app=120&f=JPEG.3rn541e1g7m0.webp") center center/cover no-repeat;
 }
 .first-screen-container .content {
   position: relative;
@@ -2635,14 +2635,14 @@ pre .javascript .function {
   padding-top: 2rem;
 }
 .first-screen-container .content .description {
-  color: #c0c0c0;
+  color: #f5f5f5;
   font-weight: bold;
   font-size: 2rem;
   line-height: 1.8;
   text-align: center;
 }
 .first-screen-container .content .description .desc-item {
-  color: #c0c0c0;
+  color: #f5f5f5;
 }
 @media (max-width: 800px) {
   .first-screen-container .content .description {
